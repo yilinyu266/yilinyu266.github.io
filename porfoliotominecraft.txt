@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Minecraft</h2>
+<img src="pandaminecraft.jpg" alt="panda" width="550" height="433">
+
+</body>
+</html>
